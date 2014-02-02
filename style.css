@@ -1,0 +1,39 @@
+.bot {
+    width: 10px;
+    height: 10px;
+    background-color: cornflowerblue;
+    position: absolute;
+    border: 3px solid #3d3d3d;
+    border-right: 10px solid transparent;
+    border-left: 2px solid #2e2e2e;
+    -webkit-transition: all .3s;
+    border-radius: 2px;
+    box-shadow: -5px 0 20px  #3d3d3d;
+}
+.vision {
+    position: absolute;
+    left: 100%;
+    top: -80%;
+    opacity: 0.2;
+    border-radius: 50px;
+}
+
+
+#botOne {
+    background-color: red;
+}
+#botTwo {
+    background-color: yellow;
+}
+#botThree {
+    background-color: cornflowerblue;
+}
+#botFour {
+    background-color: blue;
+}
+#botFive {
+    background-color: green;
+}
+#botSix {
+    background-color: orange;
+}
